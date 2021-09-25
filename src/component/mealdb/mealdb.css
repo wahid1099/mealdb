@@ -1,0 +1,20 @@
+.meals {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.meals img {
+  width: 270px;
+}
+
+.mealscontainer {
+  margin-left: 25px;
+  display: grid;
+  grid-template-columns: repeat(4, 300px);
+}
+.btn {
+  background-color: goldenrod;
+  padding: 10px;
+  margin-top: 5px;
+  cursor: pointer;
+}

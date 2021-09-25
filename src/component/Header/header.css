@@ -1,0 +1,15 @@
+.header {
+  background-image: url(../images/vegetables-set-left-black-slate.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-bottom: 350px;
+  color: white;
+}
+.heading {
+  padding-top: 50px;
+  font-size: 40px;
+}
+.input {
+  padding: 10px;
+  width: 75%;
+}
